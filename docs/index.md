@@ -35,31 +35,31 @@ Portkey Wallet is a smart contract wallet without mnemonic phrases. You can alwa
 
 -   Visit the official website of the wallet, [https://portkey.finance/](https://portkey.finance/) and download Portkey Wallet App or Extension.
 
-![](/static/img/1.png)
+![](/img/1.png)
 
 ### Register Portkey Account
 
 -   Sign up for a Portkey Wallet account using Google ID, Apple ID, email, or Telegram account. Set a PIN code during registration.
 
-![](/static/img/2.png)
+![](/img/2.png)
 
 -   Upon completion, you'll instantly have a MainChain address on aelf network, and within 3-4 minutes, you'll also see your Sidechain address at the second line (ends with tDVV). Click on your SideChain address and then on "Receive", you'll see your own SideChain Address
 
-![](/static/img/3.png)
+![](/img/3.png)
 
 ## 2.3 **EcoEarn Connects with PortKey Wallet**
 
 -   Click the “Log in” button in the navigation bar to connect your wallet.
 
-![](/static/img/4.png)
+![](/img/4.png)
 
 -   You can log in to Portkey Wallet using a Google ID, Apple ID, email, or Telegram account.
 
-![](/static/img/5.png)
+![](/img/5.png)
 
 -   After confirming the signature, you will be successfully logged in.
 
-![](/static/img/6.png)
+![](/img/6.png)
 
 # 3. **Staking Rules**
 
@@ -95,11 +95,11 @@ Points staked automatically are currently not available for unlocking; they cont
 
 -   Rewards earned from staking in points pools are distributed daily at 0:00. Users can click the “Claim” button to collect them.
 
-![](/static/img/7.png)
+![](/img/7.png)
 
 -   Confirm the amount of rewards you wish to claim. Rewards claimed have a 90-day release period, and details can be viewed on the “Rewards” page.
 
-![](/static/img/8.png)
+![](/img/8.png)
 
 -   Click “Confirm” to confirm and claim your rewards.
 
@@ -109,77 +109,77 @@ Points staked automatically are currently not available for unlocking; they cont
 
 -   Choose the single-coin mining pool you want to stake in, then click “Stake” to proceed.
 
-![](/static/img/9.png)
+![](/img/9.png)
 
 -   Enter the amount of tokens you wish to lock and the lock-up period, then click “Stake” to confirm your staking. The minimum lock-up amount is 10 tokens, and the initial lock-up period must be at least 7 days.
 
-![](/static/img/10.png)
+![](/img/10.png)
 
 -   Confirm the amount you have entered for staking and the unlock time, then click the “Confirm” button.
 
-![](/static/img/11.png)
+![](/img/11.png)
 
 ### 4.2.2 **Add Staking**
 
 -   Select the mining pool where you want to add additional staking, then click the “Add” button.
 
-![](/static/img/12.png)
+![](/img/12.png)
 
 -   In the pop-up window for adding staking, enter the amount you wish to stake, specify the additional lock-up period, and click the “Confirm” button to confirm the additional staking. Extending the lock-up period is required when adding staking and must be extended by at least 1 day.
 
-![](/static/img/13.png)
+![](/img/13.png)
 
 -   Confirm the amount of additional staking and the lock-up period you entered earlier, then click the “Confirm” button.
 
-![](/static/img/14.png)
+![](/img/14.png)
 
 ### 4.2.3 Extend Lock-up Period
 
 -   Select the mining pool for which you wish to extend the lock-up period, then click the “Extend” button. A longer extension period results in a higher APR.
 
-![](/static/img/15.png)
+![](/img/15.png)
 
 -   In the pop-up window for extending the lock-up period, enter the extension duration, then click the “Stake” button to confirm the extension.
 
-![](/static/img/16.png)
+![](/img/16.png)
 
 -   Confirm the extension duration you entered earlier, then click the “Confirm” button.
 
-![](/static/img/17.png)
+![](/img/17.png)
 
 ### 4.2.4 **Renew**
 
 -   After the lock-up period expires, there will be a 7-day unlocking period (grace period). During this period, you can renew the mining pool by selecting it and clicking the “Renew” button. If no action is taken during the unlocking period, the platform will automatically re-stake based on the total lock-up time from the most recent staking operation (remaining lock-up time + extension time).
 
-![](/static/img/18.png)
+![](/img/18.png)
 
 -   In the “Renew” pop-up window, confirm the amount you wish to renew, enter or select the lock-up period (minimum 7 days), and click the “Renew” button to confirm the staking.
 
-![](/static/img/19.png)
+![](/img/19.png)
 
 -   Confirm the amount and lock-up period you wish to renew, then click the “Confirm” button.
 
-![](/static/img/20.png)
+![](/img/20.png)
 
 ### 4.2.5 **Unlocking**
 
 -   After the lock-up period ends, you can unlock the fixed-term mining pool during the 7-day unlocking period (grace period). Select the fixed-term mining pool you wish to unlock, then click the “Unlock” button.
 
-![](/static/img/21.png)
+![](/img/21.png)
 
 -   Confirm the unlocking details, including claiming rewards at the same time. Click the “Confirm” button to proceed. Rewards claimed have a 90-day release period, and details can be viewed on the “Rewards” page.
 
-![](/static/img/22.png)
+![](/img/22.png)
 
 ### 4.2.6 **Claiming Rewards**
 
 -   Once the unlocking period (grace period) is reached, click the “Claim” button to collect rewards.
 
-![](/static/img/23.png)
+![](/img/23.png)
 
 -   Confirm the rewards you wish to claim, then click the “Confirm” button. Rewards claimed have a 90-day release period, and details can be viewed on the “Rewards” page.
 
-![](/static/img/24.png)
+![](/img/24.png)
 
 ## 4.3 Farms (LP Staking)
 
@@ -191,29 +191,29 @@ You can use SGR rewards earned on EcoEarn to add liquidity and stake them early 
 
 -   Go to the Farms page and click on “My Liquidity”.
 
-![](/static/img/25.png)
+![](/img/25.png)
 
 -   On the “My Liquidity” page, click the “Add & Stake” button. Alternatively, on the “Market” page, click “Add Liquidity & Stake”, which supports adding liquidity to form LP and staking in the Farm pool.
 
-![](/static/img/26.png)
+![](/img/26.png)
 
 -   Confirm the amount of rewards and tokens you are adding, then click “Supply” to confirm the addition.
 
-![](/static/img/27.png)
+![](/img/27.png)
 
 -   Confirm the amount of LP received and stake simultaneously, input the lock-up period, then click “Confirm stake” to confirm early staking.
 
-![](/static/img/28.png)
+![](/img/28.png)
 
 ### 4.3.2 Remove Liquidity
 
 -   Navigate to the “My Liquidity” page and click on “Remove” to remove liquidity.
 
-![](/static/img/29.png)
+![](/img/29.png)
 
 -   Confirm the amount of LP tokens you wish to remove and the corresponding amounts of both tokens received, then click “Remove” to proceed.
 
-![](/static/img/30.png)
+![](/img/30.png)
 
 ## 4.4 Rewards
 
@@ -221,33 +221,33 @@ You can use SGR rewards earned on EcoEarn to add liquidity and stake them early 
 
 -   Go to the “Rewards” page and click on “Stake early” in the pool rewards or in the “Details” popup to stake rewards early into the single-coin mining pool. Early stakeable rewards include both frozen and withdrawable amounts.
 
-![](/static/img/31.png)
+![](/img/31.png)
 
-![](/static/img/32.png)
+![](/img/32.png)
 
 -   Confirm the amount of rewards you wish to stake early, enter the desired lock-up period, and click “Stake” to confirm early staking.
 -   For first-time staking, you must input a lock-up period of at least 7 days.
 -   For additional stakes, ensure to extend the lock-up period accordingly, ensuring it meets or exceeds the longest release time node of the rewards.
 
-![](/static/img/33.png)
+![](/img/33.png)
 
-![](/static/img/34.png)
+![](/img/34.png)
 
 -   Confirm the amount and lock-up period for staking or adding stake, then click “Confirm” to proceed with the staking.
 
-![](/static/img/35.png)
+![](/img/35.png)
 
-![](/static/img/36.png)
+![](/img/36.png)
 
 ### 4.4.2 Withdraw
 
 -   Go to the “Rewards” page and click the “Withdraw” button. This allows you to withdraw rewards that have reached their release period.
 
-![](/static/img/35.png)
+![](/img/35.png)
 
 -   Confirm the amount you wish to withdraw, then click “Confirm” to proceed. Withdrawn rewards will be transferred to your PortKey wallet.
 
-![](/static/img/36.png)
+![](/img/36.png)
 
 # 5. **FAQ**
 
