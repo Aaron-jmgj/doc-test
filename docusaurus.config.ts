@@ -12,7 +12,7 @@ const config: Config = {
 	trailingSlash: true,
 
 	// Set the production url of your site here
-	url: 'https://github.com/Aaron-jmgj',
+	url: 'https://test.docs.ecoearn.io',
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
 	baseUrl: '/',
@@ -66,7 +66,7 @@ const config: Config = {
 				// @ts-expect-error
 				...navbarLinks.links,
 				{
-					href: 'https://github.com/Aaron-jmgj/doc-test',
+					href: 'https://test.docs.ecoearn.io',
 					// @ts-expect-error
 					position: 'right',
 					className: 'header-github-link',
