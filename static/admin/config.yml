@@ -3,7 +3,7 @@ backend:
     branch: doc/ecoEarn
     repo: Aaron-jmgj/doc-test
     squash_merges: true
-    base_url: https://docs-oauth.test.aelf.dev
+    base_url: https://oauth.test.docs.ecoearn.io
 
 # These lines should *not* be indented
 media_folder: 'static/img' # Media files will be stored in the repo under static/images/uploads
