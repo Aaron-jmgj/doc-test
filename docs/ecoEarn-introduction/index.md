@@ -1,4 +1,5 @@
 ---
+slug: /
 sidebar_position: 1
 title: EcoEarn Introduction
 description: EcoEarn Introduction
