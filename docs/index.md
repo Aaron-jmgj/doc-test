@@ -1,10 +1,10 @@
----
+<!-- ---
 slug: /
 sidebar_position: 0
 title: Home
 description: Homepage
 hide_table_of_contents: true
----
+--- -->
 
 # 1. EcoEarn Introduction
 
