@@ -1,9 +1,7 @@
 ---
-slug: /
 sidebar_position: 0
 title: EcoEarn Introduction
 description: EcoEarn Introduction
-hide_table_of_contents: true
 ---
 
 # EcoEarn Introduction

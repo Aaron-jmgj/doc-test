@@ -1,9 +1,7 @@
 ---
-slug: /
 sidebar_position: 2
 title: Staking Rules
 description: Staking Rules
-hide_table_of_contents: true
 ---
 
 # **Staking Rules**

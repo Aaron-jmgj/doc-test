@@ -1,9 +1,7 @@
 ---
-slug: /
 sidebar_position: 1
 title: Getting Started
 description: Getting Started
-hide_table_of_contents: true
 ---
 
 # Getting Started

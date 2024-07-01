@@ -1,9 +1,7 @@
 ---
-slug: /
 sidebar_position: 3
 title: Product Introduction
 description: Product Introduction
-hide_table_of_contents: true
 ---
 
 # **Product Introduction**
