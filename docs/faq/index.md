@@ -1,4 +1,12 @@
-# 5. **FAQ**
+---
+slug: /
+sidebar_position: 4
+title: FAQ
+description: FAQ
+hide_table_of_contents: true
+---
+
+# **FAQ**
 
 **5.1 Lock-up Period**
 
